@@ -352,11 +352,11 @@ A curated list of penetration testing and ethical hacking tools, organized by ca
 
 ---
 
-### 💖 Support
+### Support
 
-You can support this project **directly** using **Buy Me a Coffee**:  
+You can support this project **directly** using **Ko-fi**:  
 
-[![Buy Me a Coffee](https://img.shields.io/badge/☕️-Buy%20Me%20a%20Coffee-orange?style=for-the-badge&logo=buymeacoffee)](https://buymeacoffee.com/yogsec)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W116EDDL)
 
 > Every contribution, small or large, helps keep open-source cybersecurity alive. Thank you for supporting **Hacking-Tools**! 🛡️
 
