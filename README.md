@@ -24,7 +24,6 @@ A curated list of penetration testing and ethical hacking tools, organized by ca
   <a href="https://yogsec.wordpress.com">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Website&color=FFFFC5&logo=Firefox&logoColor=000000&label=" alt="Website">
   </a>
-  [![Buy Me a Coffee](https://img.shields.io/badge/☕️-Buy%20Me%20a%20Coffee-orange?style=for-the-badge&logo=buymeacoffee)](https://buymeacoffee.com/yogsec)
 
 </div>
 
@@ -350,3 +349,41 @@ A curated list of penetration testing and ethical hacking tools, organized by ca
 - 🧑‍💻 **[GnackTrack](https://sourceforge.net/projects/gnacktrack/)** – Linux live distribution for penetration testing.
 - 🛡️ **[SELKS](https://www.stamus-networks.com/open-source)** – Suricata-based IDS/IPS platform.
 - 🕵️‍♂️ **[PentestBox](https://pentestbox.org/)** – Penetration testing toolkit for Windows.
+
+## ❤️ Support Hacking-Tools
+
+Hacking-Tools is an open-source collection of **practical security scripts and tools** for:  
+- Web Application Security  
+- Bug Bounty & Pentesting  
+- Security Research & Learning  
+
+This project is actively maintained by **YogSec**, a cybersecurity initiative helping developers, startups, and security enthusiasts create safer applications.  
+
+### 🤝 Why Sponsor?
+
+Your support helps me to:  
+- 🚀 Develop **new security tools**  
+- 🛠 Maintain and **update existing scripts**  
+- 📚 Add **real-world vulnerability PoCs**  
+- 🌍 Keep the project **free and open-source**  
+
+Even a small contribution motivates me to continue building tools for the community!  
+
+---
+
+### 💖 How to Support
+
+You can support this project **directly** using **Buy Me a Coffee**:  
+
+[![Buy Me a Coffee](https://img.shields.io/badge/☕️-Buy%20Me%20a%20Coffee-orange?style=for-the-badge&logo=buymeacoffee)](https://buymeacoffee.com/yogsec)
+
+> Every contribution, small or large, helps keep open-source cybersecurity alive. Thank you for supporting **Hacking-Tools**! 🛡️
+
+---
+
+### 🔮 Future Sponsorship
+
+Once GitHub Sponsors becomes available in my region, this section will also feature:  
+- Official GitHub Sponsor button  
+- Sponsorship tiers (Bronze / Silver / Gold)  
+- Recognition in README for contributors
