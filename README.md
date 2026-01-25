@@ -349,4 +349,4 @@ A curated list of penetration testing and ethical hacking tools, organized by ca
 - 🛡️ **[SELKS](https://www.stamus-networks.com/open-source)** – Suricata-based IDS/IPS platform.
 - 🕵️‍♂️ **[PentestBox](https://pentestbox.org/)** – Penetration testing toolkit for Windows.
 
-
+[![Buy Me a Coffee](https://img.shields.io/badge/☕️-Buy%20Me%20a%20Coffee-orange?style=for-the-badge&logo=buymeacoffee)](https://buymeacoffee.com/yogsec)
