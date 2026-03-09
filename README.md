@@ -6,7 +6,12 @@ A curated list of penetration testing and ethical hacking tools, organized by ca
 ![Hacking Anime](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJjMXpvb2hkdXJvN2Y3cmllNG81YXNsem90ejhwY2NqbXB5OXgzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/137EaR4vAOCn1S/giphy.gif)
 </div>
 <br>
-
+<br>
+<br>
+![GitHub stars](https://img.shields.io/github/stars/yogsec/Hacking-Tools?style=for-the-badge)
+<br>
+<br>
+<br>
 <div align="center" style="margin: 30px 0;">
   
   <a href="https://www.linkedin.com/in/api-security/">
