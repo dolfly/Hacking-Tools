@@ -46,6 +46,20 @@ A curated list of penetration testing and ethical hacking tools, organized by ca
 - [🎭 Social Engineering Tools](#-social-engineering-tools)
 - [🧩 Miscellaneous](#-miscellaneous)
 
+---
+
+## ⭐ Featured Tool
+
+### 🐞 BugBoard – Bug Hunter's Dashboard
+
+BugBoard is an open-source dashboard built for bug bounty hunters and security researchers.  
+It helps automate vulnerability detection and organize testing workflows.
+
+🔗 GitHub: [https://github.com/yogsec/BugBoard](https://github.com/yogsec/BugBoard)  
+🌐 Live Demo: [https://yogsec.github.io/BugBoard](https://yogsec.github.io/BugBoard)
+
+---
+
 ## Information Gathering
 
 - 🛜 **[Nmap](https://nmap.org/)** – Network scanning and mapping tool.
