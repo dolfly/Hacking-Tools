@@ -56,7 +56,7 @@ BugBoard is an open-source dashboard built for bug bounty hunters and security r
 It helps automate vulnerability detection and organize testing workflows.
 
 🔗 GitHub: [https://github.com/yogsec/BugBoard](https://github.com/yogsec/BugBoard)  
-🌐 Live Demo: [https://yogsec.github.io/BugBoard](https://yogsec.github.io/BugBoard)
+🌐 Try BugBoard: [https://yogsec.github.io/BugBoard](https://yogsec.github.io/BugBoard)
 
 ---
 
