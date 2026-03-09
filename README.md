@@ -7,15 +7,6 @@ A curated list of penetration testing and ethical hacking tools, organized by ca
 </div>
 <br>
 <br>
-[![GitHub stars](https://img.shields.io/github/stars/yogsec/Hacking-Tools?style=for-the-badge)](https://github.com/yogsec/Hacking-Tools/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yogsec/Hacking-Tools?style=for-the-badge)](https://github.com/yogsec/Hacking-Tools/network)
-[![License](https://img.shields.io/github/license/yogsec/Hacking-Tools?style=for-the-badge)](https://github.com/yogsec/Hacking-Tools/blob/main/LICENSE)
-[![Last Commit](https://img.shields.io/github/last-commit/yogsec/Hacking-Tools?style=for-the-badge)](https://github.com/yogsec/Hacking-Tools/commits/main)
-[![Contributors](https://img.shields.io/github/contributors/yogsec/Hacking-Tools?style=for-the-badge)](https://github.com/yogsec/Hacking-Tools/graphs/contributors)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](https://github.com/yogsec/Hacking-Tools/pulls)
-<br>
-<br>
-<br>
 <div align="center" style="margin: 30px 0;">
   
   <a href="https://www.linkedin.com/in/api-security/">
