@@ -50,7 +50,7 @@ A curated list of penetration testing and ethical hacking tools, organized by ca
 
 ## ⭐ Featured Tool
 
-### 🐞 BugBoard – Bug Hunter Dashboard
+### BugBoard – Bug Hunter Dashboard
 
 BugBoard is an open-source dashboard built for bug bounty hunters and security researchers.  
 It helps automate vulnerability detection and organize testing workflows.
