@@ -53,7 +53,7 @@ A curated list of penetration testing and ethical hacking tools, organized by ca
 
 ---
 
-## ⭐ Featured Tool
+## 📄 Featured Tool
 
 ### BugBoard – Bug Hunter Dashboard
 
