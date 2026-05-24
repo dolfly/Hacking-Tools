@@ -55,13 +55,12 @@ A curated list of penetration testing and ethical hacking tools, organized by ca
 
 ## 📄 Featured Tool
 
-### BugBoard – Bug Hunter Dashboard
+### xss-labs
 
-BugBoard is an open-source dashboard built for bug bounty hunters and security researchers.  
-It helps automate vulnerability detection and organize testing workflows.
+xss-labs for learning web application security. Each lab demonstrates a different XSS vulnerability with interactive examples and solutions.
 
-🔗 GitHub: [https://github.com/yogsec/BugBoard](https://github.com/yogsec/BugBoard)  
-🌐 Try BugBoard: [https://yogsec.github.io/BugBoard](https://yogsec.github.io/BugBoard)
+🔗 GitHub: [https://github.com/yogsec/xss-labs](https://github.com/yogsec/xss-labs)  
+🌐 Try xss-labs: [https://yogsec.github.io/xss-labs/](https://yogsec.github.io/xss-labs/)
 
 ---
 
