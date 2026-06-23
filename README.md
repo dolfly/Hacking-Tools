@@ -30,7 +30,7 @@ A curated list of penetration testing and ethical hacking tools, organized by ca
 
 ---
 
-## 📄 Featured Tool
+## Featured Tool
 
 ### xss-labs
 
@@ -348,12 +348,5 @@ xss-labs for learning web application security. Each lab demonstrates a differen
 
 ---
 
-### Support
-
-You can support this project **directly** using **Ko-fi**:  
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W116EDDL)
-
-> Every contribution, small or large, helps keep open-source cybersecurity alive. Thank you for supporting **Hacking-Tools**! 🛡️
-
+### LinkTree - https://linktr.ee/abhinavsingwal
 
