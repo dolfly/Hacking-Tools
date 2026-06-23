@@ -11,8 +11,6 @@ A curated list of penetration testing and ethical hacking tools, organized by ca
 ![Hacking Anime](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJjMXpvb2hkdXJvN2Y3cmllNG81YXNsem90ejhwY2NqbXB5OXgzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/137EaR4vAOCn1S/giphy.gif)
 </div>
 <br>
-<br>
----
 
 ## Table of Contents
 
