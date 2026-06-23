@@ -4,8 +4,10 @@
   ![Stars](https://img.shields.io/github/stars/yogsec/Hacking-Tools)
 ![Forks](https://img.shields.io/github/forks/yogsec/Hacking-Tools)
 ![License](https://img.shields.io/github/license/yogsec/Hacking-Tools)
-![Contributors](https://img.shields.io/github/contributors/yogsec/Hacking-Tools) <br>
-A curated list of penetration testing and ethical hacking tools, organized by category. This collection includes Kali Linux tools and other notable utilities.
+![Contributors](https://img.shields.io/github/contributors/yogsec/Hacking-Tools)
+<br>
+<br>
+### A curated list of penetration testing and ethical hacking tools, organized by category. This collection includes Kali Linux tools and other notable utilities.
 </br>
 
 ![Hacking Anime](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJjMXpvb2hkdXJvN2Y3cmllNG81YXNsem90ejhwY2NqbXB5OXgzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/137EaR4vAOCn1S/giphy.gif)
