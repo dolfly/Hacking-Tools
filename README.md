@@ -32,15 +32,11 @@
 
 ---
 
-## Featured Tool
+## Learning Resources
 
-### xss-labs
-
-xss-labs for learning web application security. Each lab demonstrates a different XSS vulnerability with interactive examples.
-
-GitHub Repo.: [https://github.com/yogsec/xss-labs](https://github.com/yogsec/xss-labs)  
-Try xss-labs: [https://yogsec.github.io/xss-labs/](https://yogsec.github.io/xss-labs/)
-
+#### Cyber Security Course: https://onlineexeced.mccombs.utexas.edu/cybersecurity-course-online
+<br>
+#### Cybersecurity Certificate Program: https://online.lifelonglearning.jhu.edu/jhu-cybersecurity-certificate-program
 ---
 
 ## Information Gathering
