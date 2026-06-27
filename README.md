@@ -32,11 +32,13 @@
 
 ---
 
-## Learning Resources
+## Cybersecurity Professional Development Resources
 
-#### Cyber Security Course: https://onlineexeced.mccombs.utexas.edu/cybersecurity-course-online
+For learners, IT professionals, and security practitioners who want to strengthen their cybersecurity knowledge beyond tools and scripts, the following university-backed programs may be useful.
 
-#### Cybersecurity Certificate Program: https://online.lifelonglearning.jhu.edu/jhu-cybersecurity-certificate-program
+### Cyber Security Course
+
+The [Cyber Security Course](https://onlineexeced.mccombs.utexas.edu/cybersecurity-course-online) by The McCombs School of Business at The University of Texas at Austin is designed for professionals looking to build practical knowledge in cybersecurity strategy, risk management, and security leadership.
 
 ---
 
