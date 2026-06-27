@@ -42,8 +42,6 @@ For learners, IT professionals, and security practitioners who want to strengthe
 
 The [Cyber Security Course](https://onlineexeced.mccombs.utexas.edu/cybersecurity-course-online) by The McCombs School of Business at The University of Texas at Austin is designed for professionals looking to build practical knowledge in cybersecurity strategy, risk management, and security leadership.
 
-<br>
-
 ### Cybersecurity Certificate Program
 
 The [Cybersecurity Certificate Program](https://online.lifelonglearning.jhu.edu/jhu-cybersecurity-certificate-program) by Johns Hopkins University is suitable for those who want to deepen their understanding of cybersecurity concepts, frameworks, and real-world security challenges.
