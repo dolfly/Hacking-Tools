@@ -35,8 +35,9 @@
 ## Learning Resources
 
 #### Cyber Security Course: https://onlineexeced.mccombs.utexas.edu/cybersecurity-course-online
-<br>
+
 #### Cybersecurity Certificate Program: https://online.lifelonglearning.jhu.edu/jhu-cybersecurity-certificate-program
+
 ---
 
 ## Information Gathering
