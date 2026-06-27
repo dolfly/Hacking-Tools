@@ -44,6 +44,8 @@ The [Cyber Security Course](https://onlineexeced.mccombs.utexas.edu/cybersecurit
 
 The [Cybersecurity Certificate Program](https://online.lifelonglearning.jhu.edu/jhu-cybersecurity-certificate-program) by Johns Hopkins University is suitable for those who want to deepen their understanding of cybersecurity concepts, frameworks, and real-world security challenges.
 
+<br>
+
 > These resources are shared for users who want to expand their cybersecurity knowledge alongside ethical hacking and security tools.
 
 
