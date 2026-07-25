@@ -360,5 +360,14 @@ The [Cybersecurity Certificate Program](https://online.lifelonglearning.jhu.edu/
 
 ---
 
-### LinkTree - https://linktr.ee/abhinavsingwal
+## Cybersecurity Labs
 
+- 🐉 **[XSS Labs](https://github.com/yogsec/xss-labs)** – xss-labs for learning web application security.
+- 🦜 **[Vulnerable Shopping Cart](https://github.com/yogsec/Vulnerable-shopping-Cart)** – A deliberately insecure e-commerce application.
+- 🧑‍💻 **[Vulnerable Login](https://github.com/yogsec/Vulnerable-Login)** – Vulnerable login form designed for security education and training. 
+- 🕵️ **[Open Redirect](https://github.com/yogsec/Open-Redirect)** – An educational web application demonstrating open redirect vulnerabilities.
+
+
+---
+
+LinkTree - [https://linktr.ee/abhinavsingwal](https://linktr.ee/abhinavsingwal)
