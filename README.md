@@ -2,7 +2,7 @@
 <div align="center" style="margin: 30px 0;">
 
 
-## A curated list of penetration testing and ethical hacking tools, organized by category. This collection includes Kali Linux tools and other notable utilities.
+### A curated list of penetration testing and ethical hacking tools, organized by category. This collection includes Kali Linux tools and other notable utilities.
 
 
 ![Hacking Anime](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJjMXpvb2hkdXJvN2Y3cmllNG81YXNsem90ejhwY2NqbXB5OXgzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/137EaR4vAOCn1S/giphy.gif)
@@ -366,7 +366,11 @@ The [Cybersecurity Certificate Program](https://online.lifelonglearning.jhu.edu/
 
 ## Cybersecurity Courses
 
-- 🐉 **[Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurity-bootcamp)** – Evolve Security Academy helps students successfully transition into cybersecurity careers through immersive, hands-on training and dedicated career support. With our Job Offer Commitment, we ensure graduates are not only job-ready but equipped to launch lasting careers in cybersecurity.
+- [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurity-bootcamp) - Evolve Security Academy helps students successfully transition into cybersecurity careers through immersive, hands-on training and dedicated career support
+
+<br>
+
+> With our Job Offer Commitment, we ensure graduates are not only job-ready but equipped to launch lasting careers in cybersecurity.
 
 ---
 
