@@ -44,15 +44,13 @@ The [Cybersecurity Certificate Program](https://online.lifelonglearning.jhu.edu/
 <br>
 
 > These resources are shared for users who want to expand their cybersecurity knowledge alongside ethical hacking and security tools.
-<br>
 
 ### Cybersecurity Bootcamp
 
 The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurity-bootcamp) by Evolve Security Academy helps students successfully transition into cybersecurity careers through immersive, hands-on training and dedicated career support.
-
 <br>
 
-> With their Job Offer Commitment, they ensure graduates are not only job-ready but equipped to launch lasting careers in cybersecurity.
+> With its Job Offer Commitment, the academy ensures graduates are not only job-ready but also equipped to launch lasting careers in cybersecurity.
 
 ---
 
