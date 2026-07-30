@@ -44,7 +44,15 @@ The [Cybersecurity Certificate Program](https://online.lifelonglearning.jhu.edu/
 <br>
 
 > These resources are shared for users who want to expand their cybersecurity knowledge alongside ethical hacking and security tools.
+<br>
 
+### Cybersecurity Bootcamp
+
+The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurity-bootcamp) by Evolve Security Academy helps students successfully transition into cybersecurity careers through immersive, hands-on training and dedicated career support.
+
+<br>
+
+> With their Job Offer Commitment, they ensure graduates are not only job-ready but equipped to launch lasting careers in cybersecurity.
 
 ---
 
@@ -361,16 +369,6 @@ The [Cybersecurity Certificate Program](https://online.lifelonglearning.jhu.edu/
 - 🦜 **[Vulnerable Shopping Cart](https://github.com/yogsec/Vulnerable-shopping-Cart)** – A deliberately insecure e-commerce application.
 - 🧑‍💻 **[Vulnerable Login](https://github.com/yogsec/Vulnerable-Login)** – Vulnerable login form designed for security education and training. 
 - 🕵️ **[Open Redirect](https://github.com/yogsec/Open-Redirect)** – An educational web application demonstrating open redirect vulnerabilities.
-
----
-
-## Cybersecurity Courses
-
-- [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurity-bootcamp) - Evolve Security Academy helps students successfully transition into cybersecurity careers through immersive, hands-on training and dedicated career support
-
-<br>
-
-> With our Job Offer Commitment, we ensure graduates are not only job-ready but equipped to launch lasting careers in cybersecurity.
 
 ---
 
