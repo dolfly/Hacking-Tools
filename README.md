@@ -11,9 +11,9 @@
 
 ---
 
-## Sponsers
+## Supporters
 
-![https://www.stackscan.com/assets/images/logo/logo.webp](https://www.stackscan.com/assets/images/logo/logo.webp)
+![https://www.stackscan.com](https://www.stackscan.com/assets/images/logo/logo.webp)
 
 ---
 
