@@ -10,7 +10,8 @@
 <br>
 
 ---
-# Sponsers
+
+## Sponsers
 
 ![https://www.stackscan.com/assets/images/logo/logo.webp](https://www.stackscan.com/assets/images/logo/logo.webp)
 
