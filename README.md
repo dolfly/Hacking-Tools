@@ -76,6 +76,7 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🧑‍💻 **[FOCA](https://github.com/ElevenPaths/FOCA)** – Metadata extraction and document analysis.
 - 🛡️ **[Netcraft](https://www.netcraft.com/)** – Website profiling and phishing detection.
 - 🏛️ **[BuiltWith](https://builtwith.com/)** – Website technology lookup and analysis.
+- 🏛️ **[StackScan](https://www.stackscan.com/)** – Website technology lookup and asset footprint search.
 
 
 ## Vulnerability Analysis
