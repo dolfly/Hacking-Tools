@@ -13,7 +13,7 @@
 
 ## Supporters
 
-![https://www.stackscan.com](https://www.stackscan.com/assets/images/logo/logo.webp)
+[![StackScan](https://github.com/yogsec/Hacking-Tools/blob/main/Supporters/stackscan.webp?raw=true)](https://stackscan.com)
 
 ---
 
