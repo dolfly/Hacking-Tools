@@ -9,6 +9,13 @@
 </div>
 <br>
 
+---
+# Sponsers
+
+![https://www.stackscan.com/assets/images/logo/logo.webp](https://www.stackscan.com/assets/images/logo/logo.webp)
+
+---
+
 ## Table of Contents
 
 - [🔍 Information Gathering](#-information-gathering)
