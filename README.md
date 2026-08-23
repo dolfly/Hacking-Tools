@@ -52,6 +52,7 @@ The [Cybersecurity Certificate Program](https://online.lifelonglearning.jhu.edu/
 <br>
 
 > These resources are shared for users who want to expand their cybersecurity knowledge alongside ethical hacking and security tools.
+<br>
 
 ### Cybersecurity Bootcamp
 
