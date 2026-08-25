@@ -60,6 +60,13 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 <br>
 
 > With its Job Offer Commitment, the academy ensures graduates are not only job-ready but also equipped to launch lasting careers in cybersecurity.
+<br>
+
+### WebVerse Pro
+
+[WebVerse Pro](https://webverselabs-pro.com/) provides hands-on web application hacking labs, practical challenges, learning paths, WebRanges, daily and weekly challenges, and a massive free academy for learning web security through practical training. <br>
+
+> The platform focuses on realistic web security scenarios, helping learners build practical skills through structured labs, challenges, and dedicated learning tracks.
 
 ---
 
