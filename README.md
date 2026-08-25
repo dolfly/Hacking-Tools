@@ -354,7 +354,7 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🕵️ **[BlackArch Linux](https://blackarch.org/)** – Arch-based OS with 2800+ hacking tools.
 - 🔎 **[Pentoo](https://www.pentoo.ch/)** – Security-focused Gentoo-based Linux.
 - 🧑‍💻 **[Tails](https://tails.boum.org/)** – Privacy and anonymity-focused live OS.
-- 🌐 **[WebVerse Labs](https://webverselabs-pro.com/)** — Hands-on hacking labs, challenges, learning paths, and WebRanges.
+- 🌐 **[WebVerse Labs](https://webverselabs-pro.com/)** - Hands-on hacking labs, challenges, learning paths, and WebRanges.
 - 🧪 **[CAINE](https://www.caine-live.net/)** – Digital forensics live Linux distro.
 - 🧑‍💻 **[Bugtraq](https://bugtraq-team.com/)** – Linux distro for pentesting & malware analysis.
 - 🔒 **[Whonix](https://www.whonix.org/)** – Anonymous OS based on Tor.
