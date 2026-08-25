@@ -63,13 +63,6 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 <br>
 
 > With its Job Offer Commitment, the academy ensures graduates are not only job-ready but also equipped to launch lasting careers in cybersecurity.
-<br>
-
-### WebVerse Pro
-
-[WebVerse Pro](https://webverselabs-pro.com/) provides hands-on web application hacking labs, practical challenges, learning paths, WebRanges, daily and weekly challenges, and a massive free academy for learning web security through practical training. <br>
-
-> The platform focuses on realistic web security scenarios, helping learners build practical skills through structured labs, challenges, and dedicated learning tracks.
 
 ---
 
@@ -364,7 +357,6 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🕵️ **[BlackArch Linux](https://blackarch.org/)** – Arch-based OS with 2800+ hacking tools.
 - 🔎 **[Pentoo](https://www.pentoo.ch/)** – Security-focused Gentoo-based Linux.
 - 🧑‍💻 **[Tails](https://tails.boum.org/)** – Privacy and anonymity-focused live OS.
-- 🌐 **[WebVerse Labs](https://webverselabs-pro.com/)** - Hands-on hacking labs, challenges, learning paths, and WebRanges.
 - 🧪 **[CAINE](https://www.caine-live.net/)** – Digital forensics live Linux distro.
 - 🧑‍💻 **[Bugtraq](https://bugtraq-team.com/)** – Linux distro for pentesting & malware analysis.
 - 🔒 **[Whonix](https://www.whonix.org/)** – Anonymous OS based on Tor.
@@ -384,6 +376,7 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 
 ## Cybersecurity Labs
 
+- 🌐 **[WebVerse Labs](https://webverselabs-pro.com/)** - Hands-on hacking labs, challenges, learning paths, and WebRanges.
 - 🐉 **[XSS Labs](https://github.com/yogsec/xss-labs)** – xss-labs for learning web application security.
 - 🦜 **[Vulnerable Shopping Cart](https://github.com/yogsec/Vulnerable-shopping-Cart)** – A deliberately insecure e-commerce application.
 - 🧑‍💻 **[Vulnerable Login](https://github.com/yogsec/Vulnerable-Login)** – Vulnerable login form designed for security education and training. 
